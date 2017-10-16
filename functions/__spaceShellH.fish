@@ -1,5 +1,5 @@
 function __spaceShellH
-  commandline -a h
+  commandline -i h
   if test (commandline) = '  h'
     fh
     commandline -r ''

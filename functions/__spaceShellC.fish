@@ -1,6 +1,6 @@
 
 function __spaceShellC
-  commandline -a c
+  commandline -i c
   if test (commandline) = '  c'
     fcd
     commandline -r ''

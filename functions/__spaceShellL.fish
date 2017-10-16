@@ -1,5 +1,5 @@
 function __spaceShellL
-  commandline -a l
+  commandline -i l
   if test (commandline) = '  l'
     fls
     commandline -r ''
