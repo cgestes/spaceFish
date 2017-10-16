@@ -16,14 +16,14 @@ spacemacs for the fish shell
 ## Install
 
 ```fish
-$ omf install spaceFish
+$ omf install spaceShell
 ```
 
 
 ## Usage
 
 ```fish
-$ spaceFish
+$ spaceShell
 ```
 
 
@@ -33,9 +33,9 @@ $ spaceFish
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/cgestes
-[contributors]:   https://github.com/cgestes/spaceFish/graphs/contributors
+[author]:         https://github.com/{{USER}}
+[contributors]:   https://github.com/{{USER}}/plugin-spaceShell/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-
+>>>>>>> lol
