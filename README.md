@@ -27,10 +27,11 @@ $ omf install spaceFish
 
 enter <space><space><letter> in your shell to get some awesomeness.
 
-letter:
-c : launch fcd
-h : launch fh
-l : launch fls
+letters:
+
+- c : launch fcd
+- h : launch fh
+- l : launch fls
 
 
 # License
