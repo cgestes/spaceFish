@@ -16,15 +16,21 @@ spacemacs for the fish shell
 ## Install
 
 ```fish
+$ omf install fzf
+$ ## Now go fix the fzf plugin
+$ mv ~/.local/share/omf/pkg/fzf/{fzf,init}.fish 
 $ omf install spaceFish
 ```
 
 
 ## Usage
 
-```fish
-$ spaceFish
-```
+enter <space><space><letter> in your shell to get some awesomeness.
+
+letter:
+c : launch fcd
+h : launch fh
+l : launch fls
 
 
 # License
