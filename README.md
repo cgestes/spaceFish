@@ -19,7 +19,7 @@ spacemacs for the fish shell
 $ omf install fzf
 $ ## Now go fix the fzf plugin
 $ mv ~/.local/share/omf/pkg/fzf/{fzf,init}.fish 
-$ omf install spaceFish
+$ omf install https://github.com/cgestes/spaceFish
 ```
 
 
